@@ -1,0 +1,3 @@
+.model 1N5823 D is=0.0000691458 rs=0.00765586 n=1.11919 tt=25p cjo=720p eg=.69 bv=20 ibv=10m Vpk=70 Type=Schottky mfg=Micosemi
+.model 1N5824 D is=0.000159893 rs=0.00669584 n=1.26549 tt=25p cjo=620p eg=.69 bv=30 ibv=10m Vpk=70 Type=Schottky mfg=Micosemi
+.model 1N5825 D is=0.000310769 rs=0.00573583 n=1.41179 tt=25p cjo=575p eg=.69 bv=40 ibv=10m Vpk=70 Type=Schottky mfg=Micosemi

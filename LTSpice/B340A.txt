@@ -1,0 +1,3 @@
+*SRC=B340A;DI_B340A;Diodes;Si;  40.0V  3.00A  5.00ns   Diodes Inc. Schottky
+.MODEL DI_B340A D  ( IS=9.90n RS=14.0m BV=40.0 IBV=500u
++ CJO=464p  M=0.333 N=0.775 TT=7.20n )
